@@ -1,0 +1,8 @@
+{
+  "id": "402405660093972490",
+  "name": "Servo-Skull",
+  "description": "Messenger Servo-Skull to deliver the will of the Emperor.",
+  "icon": null,
+  "secret": "2ljMMBZFuyOYN0Ks6k6AFBgFE3JPyWVy",
+  "redirect_uris": ["http://localhost:5000/callback"],
+}
